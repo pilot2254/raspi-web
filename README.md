@@ -67,3 +67,5 @@ Or serve the `dist` folder with any static file server.
 ## License
 
 MIT License - see LICENSE file for details.
+
+Enjoy!
