@@ -13,8 +13,8 @@ A simple template for hosting websites locally on Raspberry Pi, accessible from 
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/pilot2254/raspi5-web.git
-cd raspi5-web
+git clone https://github.com/pilot2254/raspi-web.git
+cd raspi-web
 npm install
 ```
 
